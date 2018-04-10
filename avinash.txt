@@ -1,4 +1,4 @@
-"hi avinash this is my first git file" 
+a	jdjjdnash this is my first git file" 
 shdfafsa
 
 fhafsa
@@ -6,3 +6,6 @@ fhafsa
 afdfafdajdkjdlsa
 
 kjfkas
+=======
+
+again agian:update! hi hello what is this ******?!
